@@ -1,0 +1,15 @@
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\bin\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.exe
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\bin\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.deps.json
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\bin\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.runtimeconfig.json
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\bin\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.dll
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\bin\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.pdb
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\obj\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\obj\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.AssemblyInfoInputs.cache
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\obj\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.AssemblyInfo.cs
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\obj\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\obj\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.sourcelink.json
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\obj\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.dll
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\obj\Debug\net8.0\refint\Calculadora-de-Partidas-Rankeadas.dll
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\obj\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.pdb
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\obj\Debug\net8.0\Calculadora-de-Partidas-Rankeadas.genruntimeconfig.cache
+C:\Users\Adilson\Documents\Calculadora-de-Partidas-Rankeadas\obj\Debug\net8.0\ref\Calculadora-de-Partidas-Rankeadas.dll
