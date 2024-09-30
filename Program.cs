@@ -4,8 +4,8 @@ string opcao = "";
 
 Jogador jogador = new Jogador();
 jogador.Nome = new List<string>();
+jogador.Nivel = new List<string>();
 jogador.Saldo = new List<int>();
-
 
 do
 {
@@ -15,8 +15,7 @@ do
 -----------------------------------
 |[1] Adicionar jogador            | 
 |[2] Listar jogadores por nível   |
-|[3] Remover jogador              |
-|[4] Sair                         |
+|[3] Sair                         |
 -----------------------------------
 => ");
     opcao = Console.ReadLine();
@@ -24,20 +23,17 @@ do
     if (opcao == "1")
     {
         jogador.AdicionarJogador();
+        Console.Clear();
     }
     else if (opcao == "2")
     {
         jogador.ListarJogadoresPorNivel();
+        Console.Clear();
     }
-    else if (opcao == "3")
-    {
-        //RemoverJogador();
-    }
-    else
+    else 
     {
         Console.Clear();
         Console.WriteLine("Fim do programa...");
     }
-
-    //Console.Clear();
-} while (opcao != "4");
+    
+} while (opcao != "3");
