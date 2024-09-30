@@ -1,6 +1,8 @@
 # Calculadora de Partidas Rankeadas
  Segundo desafio de projeto do bootcamp GFT Start
 
+Linguagem: C#
+
 ## Descrição
 Este projeto consiste em funções que calculam o saldo de vitórias e derrotas de um jogador, classificando-o em diferentes níveis, permitindo adicionar vários jogadores e listar todos os jogadores adicionados, ordenados do nível mais alto para o mais baixo.
 
