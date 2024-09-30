@@ -74,10 +74,15 @@ namespace Calculadora_de_Partidas_Rankeadas.models
 
         public void ListarJogadoresPorNivel()
         {
+            Console.WriteLine(@$"
+================
+|Nome   |Saldo |
+================");
             for (int cont = 0; cont < Nome.Count; cont++)
             {
-                Console.WriteLine($"{Nome[cont]} - {Saldo[cont]}");
+                Console.WriteLine($"|{Nome[cont]}\t|{Saldo[cont]}       |");
             }
+            Console.WriteLine("================");
         }
     }
 }

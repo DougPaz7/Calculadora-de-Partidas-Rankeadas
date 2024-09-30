@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora-de-Partidas-Rankeadas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd2bc01d989ba7cc7446feaf5419252ebd0ebbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36013ce1ff277838c7c017f57931d39625c15bcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadora-de-Partidas-Rankeadas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadora-de-Partidas-Rankeadas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

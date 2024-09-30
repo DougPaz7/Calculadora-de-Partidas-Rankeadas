@@ -2,6 +2,11 @@
 
 string opcao = "";
 
+Jogador jogador = new Jogador();
+jogador.Nome = new List<string>();
+jogador.Saldo = new List<int>();
+
+
 do
 {
     Console.Write(@"
@@ -15,10 +20,6 @@ do
 -----------------------------------
 => ");
     opcao = Console.ReadLine();
-
-    Jogador jogador = new Jogador();
-    jogador.Nome = new List<string>();
-    jogador.Saldo = new List<int>();
 
     if (opcao == "1")
     {
