@@ -7,10 +7,12 @@ namespace Calculadora_de_Partidas_Rankeadas.models
 {
     public class Jogador
     {
+        // Propriedades de lista da classe Jogador.
         public List<string> Nome { get; set; }
         public List<int> Saldo { get; set; }
         public List<string> Nivel { get; set; }
 
+        // Métodos da classe Jogador.
         public void AdicionarJogador()
         {
 
@@ -87,7 +89,18 @@ namespace Calculadora_de_Partidas_Rankeadas.models
             Console.WriteLine("Pressione -Enter- para continuar...");
             Console.ReadLine();
         }
+        public void RemoverJogador()
+        {
+            Console.Write("Digite o nome do jogador que você quer remover: ");
+            string jogadorRemovido = Console.ReadLine();
 
+            Nome.Remove(jogadorRemovido);
+            
+            Console.WriteLine($"Jogador {jogadorRemovido} foi removido.");
+            Console.WriteLine();
+            Console.WriteLine("Pressione -Enter- para continuar...");
+            Console.ReadLine();
+        }
         public void ListarJogadoresPorNivel()
         {
             int saldoOrdenacao = 0;
@@ -120,8 +133,8 @@ namespace Calculadora_de_Partidas_Rankeadas.models
                 }
             }
 
-            Console.WriteLine("{0,-5} | {1,-10} | {2,-10} | {3,-10}", "ID", "Nome", "Saldo", "Nível");
-            Console.WriteLine(new string('-', 40)); 
+            Console.WriteLine("{0,-5} | {1, -10} | {2, -10} | {3, -10}", "ID", "Nome", "Saldo", "Nivel");
+            Console.WriteLine(new string('-', 40));
 
             for (int cont = 0; cont < Nome.Count; cont++)
             {
