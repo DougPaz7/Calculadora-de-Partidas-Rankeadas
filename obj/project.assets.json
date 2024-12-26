@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adilson\\Documents\\Calculadora-de-Partidas-Rankeadas\\Calculadora-de-Partidas-Rankeadas.csproj",
+      "projectUniqueName": "C:\\Users\\Adilson\\Documents\\Projetos GFT Start\\Calculadora-de-Partidas-Rankeadas\\Calculadora-de-Partidas-Rankeadas.csproj",
       "projectName": "Calculadora-de-Partidas-Rankeadas",
-      "projectPath": "C:\\Users\\Adilson\\Documents\\Calculadora-de-Partidas-Rankeadas\\Calculadora-de-Partidas-Rankeadas.csproj",
+      "projectPath": "C:\\Users\\Adilson\\Documents\\Projetos GFT Start\\Calculadora-de-Partidas-Rankeadas\\Calculadora-de-Partidas-Rankeadas.csproj",
       "packagesPath": "C:\\Users\\Adilson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adilson\\Documents\\Calculadora-de-Partidas-Rankeadas\\obj\\",
+      "outputPath": "C:\\Users\\Adilson\\Documents\\Projetos GFT Start\\Calculadora-de-Partidas-Rankeadas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adilson\\AppData\\Roaming\\NuGet\\NuGet.Config"
