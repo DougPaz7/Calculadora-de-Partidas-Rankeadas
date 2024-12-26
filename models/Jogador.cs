@@ -101,6 +101,7 @@ namespace Calculadora_de_Partidas_Rankeadas.models
             Console.WriteLine("Pressione -Enter- para continuar...");
             Console.ReadLine();
         }
+        
         public void ListarJogadoresPorNivel()
         {
             int saldoOrdenacao = 0;
