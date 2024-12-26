@@ -29,3 +29,6 @@ O programa foi colocado em um loop para permitir que múltiplos jogadores sejam 
 
 ### 3. `Método de Listagem`
 Este método exibe todos os jogadores adicionados, ordenando-os do nível mais alto para o mais baixo.
+
+### 4. Método `RemoverJogador`
+Este método permite remover um jogador do sistema, buscando-o pelo nome e em seguida removendo-o da lista.
